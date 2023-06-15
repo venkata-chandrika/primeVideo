@@ -1,0 +1,29 @@
+/* Write your CSS here */
+.movie-img {
+  border-radius: 10px;
+  width: 100%;
+  padding-right: 10px;
+  cursor: pointer;
+}
+.popup-content {
+  background-color: #ffffff;
+  padding-bottom: 40px;
+  padding-top: 10px;
+  padding-left: 40px;
+  padding-right: 40px;
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+}
+.close-btn {
+  align-self: flex-end;
+  border-style: none;
+  outline: none;
+  cursor: pointer;
+  background-color: transparent;
+}
+
+.close {
+  margin-bottom: 20px;
+  color: #231f20;
+}

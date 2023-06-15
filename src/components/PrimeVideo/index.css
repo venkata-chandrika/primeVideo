@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.prime-video {
+  width: 100%;
+}
+.videos-container {
+  background-color: #000000;
+}
+.movies-container {
+  padding-left: 40px;
+  padding-right: 40px;
+  padding-bottom: 20px;
+}
+.movie-heading {
+  color: #ffffff;
+}
